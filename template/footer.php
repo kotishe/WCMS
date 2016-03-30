@@ -72,8 +72,8 @@ if (!defined('init_template'))
             </div>
     	</form>
     	<div class="login-box-options">
-     		<a href="<?php echo $config['BaseURL']; ?>/index.php?page=password_recovery">Забыли пароль ?</a><br>
-     		<span>Нет аккаунта ?<a href="<?php echo $config['BaseURL']; ?>/index.php?page=register">Зарегистрируйтесь Прямо Сейчас!</a></span>
+     		<a href="<?php echo $config['BaseURL']; ?>/index.php?page=password_recovery">Забыли пароль?</a><br>
+     		<span>Нет аккаунта?<a href="<?php echo $config['BaseURL']; ?>/index.php?page=register">Зарегистрируйтесь Прямо Сейчас!</a></span>
     	</div>
   	</div>
  </div>
